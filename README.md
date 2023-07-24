@@ -1,0 +1,1 @@
+# fungible-token-that-s-ERC-20-will-allow-people-convert-money-to-KaseiCoin.
