@@ -235,12 +235,13 @@ You can also record your interactions with the executed contract as a short vide
 * To create an animated GIF, you can use [Recordit](https://recordit.co/) on either macOS or Windows.
 
 ---
+
 ![KaseiCoin contract compiled](Images/KaseiCoin contract compiled.png)
-![aseiCoinCrowdsale contract compiled](Images/KaseiCoinCrowdsale contract compiled.png)
-![KaseiCoinDeployer compiled](Images/KaseiCoinDeployer compiled.png)
+![aseiCoinCrowdsale contract compiled](Images/KaseiCoinCrowdsaleContractCompiled.png)
+![KaseiCoinDeployer compiled](Images/KaseiCoin_contract_compiled.png)
 ![DeployerInitiliaztion](Images/DeployerInitiliaztion.png)
 ![Deployer_Initlized_confirmed](Images/Deployer_Initlized_confirmed.png)
-![ontract creation](Images/contract creation.png)
+![ontract creation](Images/contract_creation.png.png)
 ![fuction_address](Images/Deployed_contract_used_fuction_address.png)
 ![crowdsalesFunction](Images/crowdsale_functionality_by_kesei_crowdsalesFunction.png)
 ![Token_address](Images/Token_address.png)
