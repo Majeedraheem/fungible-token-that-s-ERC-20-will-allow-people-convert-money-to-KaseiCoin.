@@ -236,12 +236,12 @@ You can also record your interactions with the executed contract as a short vide
 
 ---
 
-![KaseiCoin contract compiled](Images/KaseiCoin contract compiled.png)
+![KaseiCoin contract compiled](Images/KaseiCoin contractcompiled.png)
 ![aseiCoinCrowdsale contract compiled](Images/KaseiCoinCrowdsaleContractCompiled.png)
 ![KaseiCoinDeployer compiled](Images/KaseiCoin_contract_compiled.png)
 ![DeployerInitiliaztion](Images/DeployerInitiliaztion.png)
 ![Deployer_Initlized_confirmed](Images/Deployer_Initlized_confirmed.png)
-![ontract creation](Images/contract_creation.png.png)
+![ontract creation](Images/contract_creation.png)
 ![fuction_address](Images/Deployed_contract_used_fuction_address.png)
 ![crowdsalesFunction](Images/crowdsale_functionality_by_kesei_crowdsalesFunction.png)
 ![Token_address](Images/Token_address.png)
