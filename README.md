@@ -235,15 +235,16 @@ You can also record your interactions with the executed contract as a short vide
 * To create an animated GIF, you can use [Recordit](https://recordit.co/) on either macOS or Windows.
 
 ---
-![alt=""](Images/KaseiCoin contract compiled.png)
-![alt=""](Images/KaseiCoinCrowdsale contract compiled.png)
-![alt=""](Images/KaseiCoinDeployer compiled.png)
-![alt=""](Images/DeployerInitiliaztion.png)
-![alt=""](Images/Deployer_Initlized_confirmed.png)
-![alt=""](Images/Deployed_contract_used_fuction_address.png)
-![alt=""](Images/crowdsale_functionality_by_kesei_crowdsalesFunction.png)
-![alt=""](Images/Token_address.png)
-![alt=""](Images/token_buy_confirmation.png)
+![KaseiCoin contract compiled](Images/KaseiCoin contract compiled.png)
+![aseiCoinCrowdsale contract compiled](Images/KaseiCoinCrowdsale contract compiled.png)
+![KaseiCoinDeployer compiled](Images/KaseiCoinDeployer compiled.png)
+![DeployerInitiliaztion](Images/DeployerInitiliaztion.png)
+![Deployer_Initlized_confirmed](Images/Deployer_Initlized_confirmed.png)
+![ontract creation](Images/contract creation.png)
+![fuction_address](Images/Deployed_contract_used_fuction_address.png)
+![crowdsalesFunction](Images/crowdsale_functionality_by_kesei_crowdsalesFunction.png)
+![Token_address](Images/Token_address.png)
+![token_buy_confirmation](Images/token_buy_confirmation.png)
 
 ## Submission
 
